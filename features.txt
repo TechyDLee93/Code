@@ -1,0 +1,20 @@
+Feature 1: Friends-Only Leaderboard
+Description:
+The Friends-Only Leaderboard feature creates a personalized competitive environment where users can compare their fitness progress exclusively with their approved connections. Unlike global leaderboards that can be overwhelming or demotivating, this feature fosters friendly competition within a user's social circle, providing more meaningful and motivating comparisons.
+Users can send and accept friend requests to build their network, then view a customized leaderboard that ranks only those connections across various fitness metrics. The leaderboard will display friends' names and key statistics like steps taken or calories burned. Users can filter the leaderboard by metrics to focus on the aspects of fitness they care about most.
+This creates a supportive community experience while leveraging social motivation to encourage consistent app usage and fitness goal achievement.
+Tasks:
+1. Find a scoreboard that shows the names and current rankings of your friends.
+2. Find the workout statistics of one of your friends
+
+Feature 2: AI-Powered Goal Planning
+Description:
+The AI-Powered Goal Planning feature enables users to set personalized fitness objectives and receive custom-tailored plans to achieve them. Users can specify concrete goals such as burning 1000 calories by week's end, completing 10 workouts in a month, or improving their 5K running time by 2 minutes.
+Once a goal is set, the app leverages artificial intelligence to generate a detailed, day-by-day plan that breaks down the necessary activities, durations, and intensity levels needed to reach the target.
+The feature includes a clear interface for goal creation, visual representation of the AI-generated plan, progress tracking that updates in real-time as activities are completed. A prominent disclaimer informs users about potential limitations in AI accuracy, while still providing valuable guidance that would otherwise require a personal trainer.
+This feature transforms abstract fitness ambitions into concrete, actionable plans, helping users bridge the gap between intention and achievement through personalized AI guidance.
+Tasks:
+1. You want to achieve to burn 1000 calories and obtain a plan for it. This app can provide that for you, how would you navigate the app to achieve that?
+2. You finally entered your prompt! You want to look at the plan before you proceed. What do you check beforehand?
+3. You agreed to the given plan, now you want to track this given plan to start it on April 1! How would you do that?
+4. Today is Day 1 and you want to keep track of what you have done today! How do you do that?
