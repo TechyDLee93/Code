@@ -1,0 +1,189 @@
+Feature 1: Friends-Only Leaderboard
+Intro : My name is Kei S, narrator for feature 1. Our notetaker Darianne and Daniela, narrator of feature 2. You will be testing new features of our workout app. We will give you a task and you will complete that task to the best of your abilities without any guidance. Your persona today is Jeremy, a fitness enthusiast. You work out in the gym often and would like to use a new app to track your fitness. Please speak aloud how you feel about the app's navigation journey, your actions and intentions before and after any interaction. 
+
+Tasks: Find a scoreboard that shows the names and current rankings of  your friends
+
+Notes: 
+Task 1 (Screen 1): How do you find the leaderboards section?  
+What happened: Jeremy was saying that he can “see a Leaderboard button” so he clicks it to get to it. He initially saw that he was currently on the Home page according to the tab above with all the subtabs of the app. Then, he saw the new tab of the Leaderboard and thought he was done with the task.
+
+Feedback: 
+How easy/hard was it to complete the task given? Easy
+What confusions were there? Why were they confused? N/A
+What could be improved? N/A
+
+Task 2 (Screen 2): Jeremy wants to see the leaderboard for the calories burned.
+What happened: Jeremy saw that there are checkboxes to filter the leaderboard so he checked off the calories board box. After he clicks it, he can see the leaderboard of his friends and the rank of who burnt the most calories. The names are clickable.
+Feedback:
+ How easy/hard was it to complete the task given? Easy
+What confusions were there? Why were they confused? No confusions
+What could be improved? “Make the checkboxes look more like boxes that look more like buttons. it isn’t something necessary, it is optional.”
+Task 3 (Screen 3): Jeremy wants to see his friends’ stats in detail
+What happened: He clicks on Alice’s name to see her stats and a new page appears showing her stats more in depth, including a graph of her stats.
+Feedback: 
+ How easy/hard was it to complete the task given? Easy
+What confusions were there? Why were they confused? N/A
+What could be improved? None
+
+Results: 
+ Check boxes on screen 2 didn’t look like buttons. ( “Make the checkboxes look more like boxes that look more like buttons. it isn’t something necessary, it is optional.”)
+Hypothesis: It could be a little confusing trying to figure out the function of something if it doesn't look like what it's supposed to be. 
+Remedy - Change appearance of buttons 
+
+
+
+Feature 1: Friends-Only Leaderboard
+Intro: My name is Kei S, narrator for feature 1. Our notetaker Darianne and Daniela, narrator of feature 2. You will be testing new features of our workout app. We will give you a task and you will complete that task to the best of your abilities without any guidance. Your persona today is Maria, someone who wants to start working out and is using a fitness app for the first time. You do not normally use social media.  Please speak aloud how you feel about the apps navigation journey, your actions and intentions before and after any interaction. 
+
+Tasks: Find a scoreboard that shows the names and current rankings of  your friends
+Notes: 
+Screen 1: How do you find the leaderboards section?  
+What happened: she  to  prompted to take a look at the leaderboard, she clicks the leaderboard tab to see what it does, she clicks and is given a prompt to choose which leaderboard she wants, and she goes to the calories burned leaderboard, she feels the task is complete after she clicks this button, she thinks it is pretty easy. Maria is Spanish speaking so “if you know English, it would be easier, it could be improved if there were the names of the people on the leaderboard next to the selection options.
+‘
+Feedback: 
+How easy/hard was it to complete the task given? Easy
+What confusions were there? Why were they confused? N/A
+What could be improved? it could be improved if there were the names of the people on the leaderboard next to the selection options
+
+(Screen 2): Find the workout statistics of one of your friends
+What happened: she is now at the calories burned leaderboard. Maria described what she sees as “the friends on the leaderboard and how many calories are burned”.
+
+Feedback:
+How easy/hard was it to complete the task given? Easy
+What confusions were there? Why were they confused? No confusions
+What could be improved? “improvements could be the date of how many calories were burned because we don't know if this is over a number of days or lifetime, also more details should be added to describe how the friend is the leader. (days, months, lifetime calories burned)”
+
+
+Task 3 (Screen 3): View your friends’ stats in detail
+What happened: Maria is tasked with looking at a friends task, the friends names are hyperlinks and she clicks Alice’s stats and is able to see Alice’s progress with a graph and activity. “This task was pretty easy and straightforward”. 
+
+Feedback: 
+
+How easy/hard was it to complete the task given Overall Easy
+What confusions were there? Why were they confused? N/A
+What could be improved?  There should be some workout advice on this page to see how the user could meet Alice’s accomplishments. 
+
+
+
+Results:
+it could be improved if there were the names of the people on the leaderboard next to the selection options
+“improvements could be the date of how many calories were burned because we don't know if this is over a number of days or lifetime, also more details should be added to describe how the friend is the leader. (days, months, lifetime calories burned)”.
+
+Hypothesis: There are different leaderboards but I believe that the tester would appreciate seeing over a period of time all friends acheivements
+
+	Remedy- Added a dropdown to select the desired timeframe for the leaderboard data and placements
+
+There should be some workout advice screen 3 to see how the user could meet Alice’s accomplishments. 
+
+
+
+
+
+
+
+
+
+
+
+
+Feature 2: Goal Planning
+Intro: My name is Daniela, narrator for feature 2. Our notetaker Darianne and Kei, narrator of feature 1. You will be testing new features of our workout app. We will give you a task and you will complete that task to the best of your abilities without any guidance. Your persona today is Jeremy is a fitness enthusiast. He works out in the gym often and would like to use a new app to track his fitness.  Please speak aloud how you feel about the app's navigation journey, your actions and intentions before and after any interaction. 
+
+Tasks:You want to achieve burning 1000 calories in one week and use the app to obtain a plan for it. How would you navigate the app to achieve that?
+Notes: 
+
+Screen 1: You finally entered your prompt! You want to look at the plan before you proceed. What do you check beforehand?   
+What happened: Jeremy is at the home screen, initial action is looking at features and to scroll through the tabs. He wants to make a plan to burn calories so he clicks on the planner tab. Once on the page, he reads and notices the prompt input bar and Gen Ai advice. “It is automated in a way so I will type, burn 1000 calories in one week”.  He then clicks the give me my plan button.
+
+Feedback: 
+How easy/hard was it to complete the task given? task was "very intuitive" and a simple prompt, 
+What confusions were there? Why were they confused? N/A
+What could be improved? N/A
+
+(Screen 2): You agreed to the given plan and now you want to track this given plan for a start date of May 1. How do you do that?  
+What happened: Once the prompt is entered, he gets to the plan page where there is a table of a workout plan, with a brief description that is also a clickable hyperlink for a workout summary. He sees tips and a warning message. He sees an accept or reject button. He clicks one of the hyperlinks to see what type of information he gets. The first hyperlink gives a more in depth description of what the workout is, how many calories are burned, and how long the workouts take and there is also a  bonus workout.  " I feel more confident with the information". He wants to see more summaries. "It is a nice tip to receive...more ready to accept the plan".   "This will be an adequate plan so I will click the accept button."  Testers’ next task is to track the workout plan. He notices the text next to the accept button and goes to the recent workouts tab to see if there is an activity to be completed. He is rerouted to return the workout to his calendar. He clicks on the date button to see where it takes him. He sets it to the day he wants to start. May 1. It automatically makes the end date one week away to match his goal.
+
+Feedback:
+How easy/hard was it to complete the task given? Slightly difficult
+What confusions were there? Why were they confused? This part is a little confusing to the tester.(prototype doesn't look like a button so he didn't know to click it) 
+What could be improved? recognizing the summary hyperlinks which could be improved
+
+Task 3 (Screen 3): Today is Day 1 and you want to keep track of what you have done today. How do you achieve this?
+
+What happened: After accepting the plan, the next screen gives a calendar to keep track of what task is being done. He assumes each day is its own button, he clicks the 1st. There are two check boxes that will help him keep track of what he has done and what he will do for each workout. He feels like he has managed to complete the task he has set out to complete. 
+
+Feedback: 
+How easy/hard was it to complete the task given? Not intuitive
+What confusions were there? Why were they confused? start/end date didn't look like buttons but no confusions
+What could be improved? None
+
+
+Results:
+Recognizing the summary hyperlinks which could be improved
+
+
+
+
+
+Feature 2: Goal Planning
+Intro:  My name is Daniela, narrator for feature 2. Our notetaker Darianne and Kei, narrator of feature 1. You will be testing new features of our workout app. We will give you a task and you will complete that task to the best of your abilities without any guidance. Your persona today is
+Maria, someone who wants to start working out and is using a fitness app for the first time, who does not normally use social media.  Please speak aloud how you feel about the app's navigation journey, your actions and intentions before and after any interaction. 
+
+Tasks: You want to achieve burning 1000 calories in one week and use the app to obtain a plan for it. How would you navigate the app to achieve that?
+
+Notes: 
+Screen 1: You finally entered your prompt! You want to look at the plan before you proceed. What do you check beforehand?   
+What happened: Prompt is given, tester goes to planner, when she gets to planner screen she asks if the bar is a search bar, the explanation is given that it is for a prompt to be input, her task is added, she notices the rest of the functions on the page. She is rerouted to the task which is to burn 1000 calories in a week. Tester is struggling even when she is given an explanation. Narrator is giving a real life example to explain how to use the app. she understands and types the prompt in and clicks the give me my workout button.
+
+Feedback: 
+How easy/hard was it to complete the task given? easy
+What confusions were there? Why were they confused? She was confused on the search bar due to the prototype not explaining it is ai driven advice,
+What could be improved?  improvements should include mentioning the advice is AI driven
+
+(Screen 2): You agreed to the given plan and now you want to track this given plan for a start date of May 1. How do you do that?  
+What happened: She wants to click on the day 2 summary. It is very helpful because it gives information about the workout. she asks “Is this a recommendation or do I have to accept”. She wants to click the day 7 workout plan to be sure if she wants to accept. She reads over the summary. The task is clear and easy to navigate.
+
+Feedback:
+ How easy/hard was it to complete the task given? easy
+What confusions were there? Why were they confused? This part is a little confusing to the tester.(prototype doesn't look like a button so he didn't know to click it) 
+What could be improved? recognizing the summary hyperlinks which could be improved
+
+Task 3 (Screen 3): Today is Day 1 and you want to keep track of what you have done today. How do you achieve this?
+What happened:She accepted the workout but left the start/end date empty which throws an error. She chooses a start date and the end date is automatically chosen for her since the task is for 1 week. Maria would then go back to the activity list but there is no button to do that. The tester is a bit confused on how to get there. Tester does not feel that the task is completed. 
+
+Feedback: 
+ How easy/hard was it to complete the task given? Not intuitive
+What confusions were there? Why were they confused? the start/end date didn't look like buttons but no confusion, tester is confused on how this page works.
+What could be improved? the start/end date didn't look like buttons so that could be improved. Being able to track how many calories have been burned so far. Make an indicator that you can click on the day and activity that needs to be done would appear. You should be able to click on the day to see what activity should be done on that day but there are no instructions or indicators to do so. improvement could be to add the indicator. 
+
+Results:
+ Being able to track how many calories have been burned so far.
+
+Hypothesis:Testers should be able to tell how close or far they are from achieving their goal. It could be more encouraging to see how much work they are putting out.
+
+	Remedy: Added a progress bar when tracking the plan received from the Goal Planner
+
+ Make an indicator that you can click on the day and activity that needs to be done would appear. “You should be able to click on the day to see what activity should be done on that day but there are no instructions or indicators to do so. improvement could be to add the indicator.”
+Improvements should include mentioning the advice is AI driven
+The start/end date didn't look like buttons 	
+	
+Hypothesis: Start and end date on paper prototype should be more defined so that user could visible see that it was a sort of hyperlink or  maybe a note should be visible that lets user know.
+	Remedy: Changed the "Start date" button to look more like a button and added a note for the user to insert the start date of their plan before they accept the recommendation given by the Goal Planner.
+
+
+
+
+Implemented Fixes:  
+
+Feature 1: Friends-Only Leaderboard
+
+- Changed the appearance of the buttons when selecting the leaderboard that the user wants to see. This improvement was made because Jeremy (tester) indicated that the buttons looked like checkboxes instead of regular buttons, which could mislead the user into thinking that multiple items could be selected.
+-.Added a dropdown to select the desired timeframe for the leaderboard data and placements. This improvement was made because Maria (tester) said that the table alone could be interpreted as belonging to any timeframe, and different times can better portray how the users have improved overtime.
+
+
+Feature 2: Goal Planning
+
+- Added a progress bar when tracking the plan received from the Goal Planner. This progress bar tracks how many tasks have been completed from the tasks given from the Goal Planner for the user to achieve their goal. This improvement was added because María (tester) wanted to know how her progress is going while she keeps track of the calendar.
+- Changed the "Start date" button to look more like a button and added a note for the user to insert the start date of their plan before they accept the recommendation given by the Goal Planner. This fix was made because Jeremy (tester) found it difficult to notice that the Start date was a button that has to be pressed before accepting the given plan.
+
+
