@@ -1,11 +1,3 @@
-# KeDaArD Coding
-
-## Our Team
-
-- Darianne Sinclair
-- Daniela Gutierrez
-- Ariana Phillips
-- Kei Sanabria
 
 - Unit 1 Deployment: https://byte-me-44ac355vjq-uc.a.run.app/
 - Unit 2-4 Deployment: https://byte-me-project-1-790220641143.us-central1.run.app
@@ -24,13 +16,13 @@ Open Cloud Shell by going to https://shell.cloud.google.com. **Make sure you are
 In the terminal, run the following command:
 
 ```shell
-git clone git@github.com:ISE-GenAI-TechX25-Section-B/byte-me-project.git
+
 ```
 
 Hit enter, and then use `cd` to change into your team's repository.
 
 ```shell
-cd byte-me-project
+
 ```
 
 ## Step 2: Run the Streamlit app.
